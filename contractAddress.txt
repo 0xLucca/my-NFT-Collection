@@ -1,0 +1,5 @@
+V1 (JSON and images hosted on the web)
+0xE188659272cd00F17c27C218790C562823C455D4
+
+V2 (JSON and images hosted on chain)
+0x271Fa563eAA71B1aF3ED082adC5AC602285c96fa
