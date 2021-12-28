@@ -3,3 +3,9 @@ V1 (JSON and images hosted on the web)
 
 V2 (JSON and images hosted on chain)
 0x271Fa563eAA71B1aF3ED082adC5AC602285c96fa
+
+V3 (JSON and images dinamically generated)
+0xB48A7A144170Aabf30AB391080c9Fa1d8C9bF5EB
+
+V4 (JSON and images dinamically generated, events)
+0xe072Cd432b072c6701aa437f3017941c15D4Ef66
