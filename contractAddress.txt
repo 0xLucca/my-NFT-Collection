@@ -9,3 +9,9 @@ V3 (JSON and images dinamically generated)
 
 V4 (JSON and images dinamically generated, events)
 0xe072Cd432b072c6701aa437f3017941c15D4Ef66
+
+v5 (Limited amount of NFTs)
+0x7232f7065D857f8dCF04A15db160f5c70a207c22
+
+v6 (Function added)
+0x7651F6ED2c823a794358e8Fd7D562D23f0406FD8
